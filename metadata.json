@@ -1,0 +1,6 @@
+{
+  "name": "Halal Bazar BD",
+  "description": "শতভাগ প্রিমিয়াম ড্রাই ফ্রুটস, কাজুবাদাম, কাঠবাদাম, খেজুর ও অর্গানিক খাদ্যপণ্য কালেকশন। ১০০% ফ্রেশ, ক্যাশ অন ডেলিভারি ও দ্রুত হোম ডেলিভারি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
